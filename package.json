@@ -3,7 +3,7 @@
   "title": "jquery Tocify",
   "description": "A jQuery plugin that creates a dynamic table of contents",
   "version": "1.9.0",
-  "homepage": "http://gregfranko.com/jquery.tocify.js/",
+  "homepage": "https://github.com/aleray/jquery.tocify.js",
   "author": {
     "name": "Greg Franko",
     "email": "gfranko5@yahoo.com",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gfranko/jquery.tocify.js.git"
+    "url": "git://github.com/aleray/jquery.tocify.js.git"
   },
   "bugs": {
-    "url": "https://github.com/gfranko/jquery.tocify.js/issues"
+    "url": "https://github.com/aleray/jquery.tocify.js/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://www.gregfranko.com/jquery.tocify.js/blob/master/LICENSE-MIT"
+      "url": "https://github.com/aleray/jquery.tocify.js/blob/master/LICENSE-MIT"
     }
   ],
   "devDependencies": {
