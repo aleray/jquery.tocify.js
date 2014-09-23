@@ -387,7 +387,7 @@
 
             }).append($("<a/>", {
 
-                "text": self.text()
+                "text": self.attr('data-shortname') || self.text()
 
             }));
 
